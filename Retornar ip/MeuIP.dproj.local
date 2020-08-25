@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/14 13:38:20.000.463,=C:\Users\djnoe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/14 13:48:48.000.224,C:\Users\djnoe\OneDrive\Excelencia Gestor Escola - FireBird\Retornar ip\RetornarIp.pas=C:\Users\djnoe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/14 13:48:48.000.224,C:\Users\djnoe\OneDrive\Excelencia Gestor Escola - FireBird\Retornar ip\RetornarIp.dfm=C:\Users\djnoe\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/08/14 13:51:06.000.946,C:\Users\djnoe\OneDrive\Excelencia Gestor Escola - FireBird\Retornar ip\MeuIP.dproj=C:\Users\djnoe\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

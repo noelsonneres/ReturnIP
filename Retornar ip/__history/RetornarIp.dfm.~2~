@@ -1,0 +1,63 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  Caption = 'Form1'
+  ClientHeight = 261
+  ClientWidth = 392
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 56
+    Width = 68
+    Height = 13
+    Caption = 'IP da maquina'
+  end
+  object Edit1: TEdit
+    Left = 24
+    Top = 78
+    Width = 178
+    Height = 21
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 208
+    Top = 76
+    Width = 75
+    Height = 25
+    Caption = 'Meu IP'
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+  object Edit2: TEdit
+    Left = 24
+    Top = 128
+    Width = 178
+    Height = 21
+    TabOrder = 2
+    Text = 'Edit2'
+  end
+  object Button2: TButton
+    Left = 208
+    Top = 126
+    Width = 75
+    Height = 25
+    Caption = 'Button2'
+    TabOrder = 3
+    OnClick = Button2Click
+  end
+  object IdIPWatch1: TIdIPWatch
+    Active = False
+    HistoryFilename = 'iphist.dat'
+    Left = 232
+    Top = 16
+  end
+end
